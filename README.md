@@ -9,7 +9,6 @@ My device：Linux，PyTorch version 2.1.2+cu121
 
 **1. 首先，请安装相关依赖**
 ```shell
-pip install modelspace
 pip install -r requirement.txt
 ```
 **2.  执行**
