@@ -18,5 +18,5 @@ python main.py
 ```
 请将spyder的headers和proxies修改为自己的设备
 **3.  结果**
-<img src="./output/img_output/dog_3.png" alt="描述" style="width: 300px; height: 300;">
-<img src="./output/img_output/cat_2.png" alt="描述" style="width: 300px; height: 300;">
+<img src="./results/img_output/Figure_1.png" alt="描述" style="width: 300px; height: 300;">
+<img src="./results/img_output/Figure_2.png" alt="描述" style="width: 300px; height: 300;">
